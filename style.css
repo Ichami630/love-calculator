@@ -1,0 +1,15 @@
+body{
+    background-color: #EA15CE;
+    padding: 0px;
+    align-items: center;
+    text-align: center;
+
+}
+h1,h4{
+    color: #15EA31;
+    font-size: 45px;
+}
+p{
+    color: #ffff;
+    font-size: 20px;
+}
